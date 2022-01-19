@@ -64,6 +64,12 @@ const app = {
       path: './assets/music/song6.mp3',
       image: './assets/img/song6.png'
     },
+    {
+      name: 'Cô Đơn Dành Cho Ai (Orinn Remix)',
+      singer: 'NAL x LEE KEN',
+      path: './assets/music/song7.mp3',
+      image: './assets/img/song7.png'
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
